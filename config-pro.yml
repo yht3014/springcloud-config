@@ -1,0 +1,4 @@
+spring:
+      profiles: pro
+      application:
+	name: cloud-config-atguigu-pro
